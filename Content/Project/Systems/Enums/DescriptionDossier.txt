@@ -1,0 +1,1 @@
+Enumerations (Listes d'états).

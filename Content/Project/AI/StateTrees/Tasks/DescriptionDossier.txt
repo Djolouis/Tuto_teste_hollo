@@ -1,0 +1,1 @@
+Actions spécifiques exécutées dans les états (STT_).

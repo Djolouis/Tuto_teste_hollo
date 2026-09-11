@@ -1,0 +1,1 @@
+Évaluateurs pour calculer des données avant transition (STE_).

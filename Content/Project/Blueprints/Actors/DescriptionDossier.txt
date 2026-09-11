@@ -1,0 +1,1 @@
+Objets interactifs du monde (portes, items, pièges).

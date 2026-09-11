@@ -1,0 +1,1 @@
+Conditions pour bloquer ou autoriser l'exécution (BTD_).
